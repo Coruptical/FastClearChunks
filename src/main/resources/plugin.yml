@@ -1,0 +1,4 @@
+name: FastClearChunks
+version: '${project.version}'
+main: com.coruptical.fastclearchunks.FastClearChunks
+api-version: '1.20'

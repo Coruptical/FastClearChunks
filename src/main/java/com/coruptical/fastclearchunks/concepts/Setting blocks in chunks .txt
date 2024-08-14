@@ -1,0 +1,5 @@
+Setting blocks in chunks: 
+
+1. Use server 
+2. Use packets (show lighting (slower), don't do light updates (much faster))
+3. Update client-side and then server-side somehow? (this is hypothetical)
